@@ -1,7 +1,6 @@
 {
-  "prompt": "An immense field of identical thin vertical forms — like reeds, or standing figures, or candles — stretching to the horizon in a flat, gridded plane seen from a low angle. The forms at the far left are deep cool blue, almost frozen. Moving rightward across the field they shift almost imperceptibly through greens and yellows, then suddenly — in the final third — they ignite into deep amber, burning orange, and fierce incandescent white. The transition feels slow, then violent. No text, no labels, no axes, no numbers. Cinematic wide shot, dusk light, photorealistic, emotionally overwhelming sense of accumulation and threshold crossed.",
+  "prompt": "A photorealistic tailor's workshop, cinematic natural light from a side window. In the foreground, a dressmaker's mannequin wearing an extraordinarily elaborate suit — every seam, dart, and stitch follows the mannequin's exact contours obsessively, with dozens of unnecessary pleats, folds, and adjustments that map perfectly to that one specific form. The suit is a technical masterpiece but visibly bizarre in its hyper-specificity. Beside the mannequin stands a real human figure in plain clothes, looking at the suit — the suit clearly could not fit them at all, its contortions are too particular, too memorized. The workshop is filled with fabric swatches and measuring tools. Photorealistic, no text, no labels, no diagrams, warm workshop lighting, 35mm photography aesthetic, shot on film.",
   "model": "DALL·E 3",
-  "dataset_name": "GISS Surface Temperature Analysis (GISTEMP v4)",
-  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
-  "insight": "Every year since 1977 has been warmer than the 20th-century average — a 48-year unbroken streak that accelerates sharply toward the present."
+  "concept": "Overfitting",
+  "metaphor": "A suit tailored obsessively to one mannequin's exact contours — a perfect fit for training data, visibly unwearable by any real person standing beside it."
 }
