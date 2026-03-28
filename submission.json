@@ -1,0 +1,6 @@
+{
+  "paradox": "The Birthday Problem",
+  "model": "DALL·E 3",
+  "prompt": "A vast dark circular pool seen from directly above. Dozens of ripple rings expand outward from isolated raindrop impact points scattered across the surface — each ring perfectly distinct in origin, yet the rings inevitably overlap and intersect across the entire pool. The overlapping intersections glow faintly with soft iridescent light. The pool is large, the drops are few, yet no area of water remains untouched by intersection. Photorealistic, top-down aerial view, dark water, subtle luminescence at each crossing point, no text, no numbers, no labels, cinematic lighting.",
+  "visual_logic": "Isolated raindrops in a large pool produce ripples that seem too few to collide — yet intersections are everywhere and unavoidable, mirroring how 23 people yield surprising collision probability."
+}
