@@ -1,0 +1,7 @@
+{
+  "prompt": "An immense field of identical thin vertical forms — like reeds, or standing figures, or candles — stretching to the horizon in a flat, gridded plane seen from a low angle. The forms at the far left are deep cool blue, almost frozen. Moving rightward across the field they shift almost imperceptibly through greens and yellows, then suddenly — in the final third — they ignite into deep amber, burning orange, and fierce incandescent white. The transition feels slow, then violent. No text, no labels, no axes, no numbers. Cinematic wide shot, dusk light, photorealistic, emotionally overwhelming sense of accumulation and threshold crossed.",
+  "model": "DALL·E 3",
+  "dataset_name": "GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Every year since 1977 has been warmer than the 20th-century average — a 48-year unbroken streak that accelerates sharply toward the present."
+}
