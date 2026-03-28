@@ -1,0 +1,8 @@
+{
+  "prompt": "Ukiyo-e woodblock print style, Edo period Japan 1800s, Katsushika Hokusai compositional influence. A single ancient gnarled tree dominates the frame on a strong diagonal axis. At every fork in the branches, one branch blooms with flat vermillion blossoms, the other is bare black and skeletal — a visible binary choice at each split. The branching becomes progressively finer toward the top, terminating in a single glowing golden leaf. Flat unmodulated color fills — indigo sky, ochre ground, vermillion blossoms, no gradients whatsoever. Bold black ink outlines define every form. Visible woodgrain texture across the entire surface. Strong diagonal composition, dramatic negative space in indigo sky. No text, no numbers, no labels. Authentic Edo-period woodblock print aesthetic, not a modern illustration.",
+  "model": "Midjourney v6.1",
+  "concept": "Decision Trees",
+  "tradition_name": "Japanese Ukiyo-e woodblock prints",
+  "tradition_period": "1603–1868 (Edo period)",
+  "tradition_approach": "Hokusai diagonal composition, flat unmodulated color fills, bold ink outlines, limited indigo-vermillion-ochre palette, visible woodgrain texture, and binary branch life/death to encode split logic."
+}
